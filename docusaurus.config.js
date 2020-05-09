@@ -1,5 +1,5 @@
 module.exports = {
-  title: "李川的博客 ",
+  title: "lichuan-blog",
   tagline: "The tagline of my site",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
