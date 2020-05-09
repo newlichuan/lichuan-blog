@@ -1,17 +1,17 @@
 module.exports = {
   title: "lichuan-blog",
   tagline: "The tagline of my site",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://lichuan.run",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "facebook", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "李川的博客",
+      title: "李川",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg"
+        alt: "My Logo",
+        src: "img/logo.jpg"
       },
       links: [
         {
