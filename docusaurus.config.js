@@ -1,5 +1,5 @@
 module.exports = {
-  title: "lichuan-blog",
+  title: "chuan",
   tagline: "The tagline of my site",
   url: "https://lichuan.run",
   baseUrl: "/",
