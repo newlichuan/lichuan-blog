@@ -8,7 +8,7 @@ module.exports = {
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "李川",
+      title: "首页",
       logo: {
         alt: "My Logo",
         src: "img/logo.jpg"
@@ -55,7 +55,7 @@ module.exports = {
         //   ]
         // }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} `
+      copyright: `版权所有 侵权必究`
     }
   },
   presets: [
