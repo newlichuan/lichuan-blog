@@ -1,6 +1,6 @@
 module.exports = {
-  title: "chuan",
-  tagline: "The tagline of my site",
+  title: "川",
+  tagline: "我的博客",
   url: "https://lichuan.run",
   baseUrl: "/",
   favicon: "img/favicon.ico",
