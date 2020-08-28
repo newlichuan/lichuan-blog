@@ -19,6 +19,12 @@
 .blogPostTitle_node_modules-\@docusaurus-theme-classic-src-theme-BlogPostItem- {
   font-size: 2rem !important;
 }
+h2 a {
+  font-size: 2rem !important;
+}
+h1 {
+  font-size: 2rem !important;
+}
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
